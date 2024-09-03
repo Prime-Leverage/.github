@@ -1,4 +1,4 @@
-# [Prime Leverate](https://primeleverage.org)
+# [Prime Leverage](https://primeleverage.org)
 
 ## Description
 
