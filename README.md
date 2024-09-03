@@ -1,10 +1,8 @@
-# [Final Frontier](https://final-frontier.tanagra.enterprises)
+# [Prime Leverate](https://primeleverage.org)
 
 ## Description
 
-This is a public static html website template and GitHub profile intended for use within [Tanagra Enterprises](https://www.tanagra.enterprises) Organizations.
-
-This template should be forked as `.github` and customized by the forking Org.
+This is a public static html website template and GitHub profile intended for use within [Prime Leverage](https://primeleverage.org).
 
 ## Profile
 
