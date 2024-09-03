@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a public static html website template and GitHub profile intended for use within [Prime Leverage](https://primeleverage.org) Organizations.
+This is a public static html website template and GitHub profile intended for use within [Prime Leverage](https://primeleverage.org).
 
 ## Profile
 
